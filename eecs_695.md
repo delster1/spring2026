@@ -5,6 +5,8 @@ tags:
 ---
 # eecs 695 - Software Reverse Engineering
 
+[[week-3_695]]
+
 ## Syllabus
 
 **class info** 
@@ -86,6 +88,5 @@ Prereq's:
 - main categories:
     - security related
     - software dev related
-
 
 

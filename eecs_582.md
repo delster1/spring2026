@@ -8,6 +8,7 @@ tags:
     Prof. David Johson
     davidojohnson@ku.edu
 
+[[582 Proj]]
 **Grades** 
 - A: 90-100%
 - B: 80-89%
