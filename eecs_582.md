@@ -9,6 +9,8 @@ tags:
     davidojohnson@ku.edu
 
 [[582 Proj]]
+[[week-3_582]]
+
 **Grades** 
 - A: 90-100%
 - B: 80-89%

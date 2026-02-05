@@ -68,4 +68,5 @@ Assignments & Quizzess must be submitted by deadline
 - Get your hands dirty!
 - Discuss stuff w/ seniors
 [[week-1_Intro-to-AI]]
+[[week-2_regression]]
 
