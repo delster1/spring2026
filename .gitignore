@@ -1,0 +1,17 @@
+*
+.obsidian
+
+# Allow markdown
+!*.md
+!.gitignore
+
+# Allow images
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.svg
+!*.webp
+
+# Allow directories so that allowed files inside them are kept
+!*/
