@@ -46,3 +46,20 @@ Raspberry Pi - Central Monitor
 
 https://chatgpt.com/share/69863765-159c-800c-97ca-df2db5d86c61
 
+
+## Website
+Sync w/ obsidian!
+- now page
+- public/ folder 
+- certain pages use md 
+- online cv 
+
+database
+- last song
+- todos 
+- anything else 
+
+dashboard - admin! 
+- current servers online
+- current services online 
+- enable-able public dashboard elements
