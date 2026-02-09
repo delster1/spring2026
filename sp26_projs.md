@@ -49,7 +49,7 @@ https://chatgpt.com/share/69863765-159c-800c-97ca-df2db5d86c61
 
 ## Website
 Sync w/ obsidian!
-- now page
+- now page [about now](https://nownownow.com/about)
 - public/ folder 
 - certain pages use md 
 - online cv 
@@ -63,3 +63,13 @@ dashboard - admin!
 - current servers online
 - current services online 
 - enable-able public dashboard elements
+
+misc. 
+- recommend a book
+- recommend a song
+- recent song 
+- my fav languages 
+- blog page - pulls from public/blog
+- public page
+- how it works? button for certain things
+
