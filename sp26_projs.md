@@ -40,9 +40,28 @@ List of projects (coding)
     - log clustering
     - ML to supress repetitive logs
 
+- Opentelemetry - traces metrics, logs, etc. across services! 
+    - trace requests across everything
+
+- Secure Authentication!
+    - Hashicorp Vault - Secret Management, encryption, credentials
+    - Authentik - self-hosted SSO and stuff!
+    - Tailscale? - apparently can secure access to ssh, postgres, etc.
+
+- Orchestration & Jobs!
+    - Nomad - grown-up Systemd
+    - Or roll my own systemd service replacer!
+    - Docker - keeps stuff separate
+
+- Security!
+    - wazuh - SIEM + HIDS
+
 Raspberry Pi - Central Monitor
 - firewall!
 - Runs central service inventory
+- Prometheus - Metrics Collection 
+- Grafana - Logs visualization & graphing
+- Loki - Log aggregation & indexing
 
 https://chatgpt.com/share/69863765-159c-800c-97ca-df2db5d86c61
 

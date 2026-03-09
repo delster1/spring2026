@@ -10,6 +10,10 @@ tags:
 
 [[582 Proj]]
 [[week-3_582]]
+[[week-4_582]]
+[[week-5_582]]
+[[james_notes]]
+[[Erin_presentation]]
 
 **Grades** 
 - A: 90-100%
