@@ -73,3 +73,7 @@ misc.
 - public page
 - how it works? button for certain things
 
+# encryption data broker
+is there any technology that optimizes memory by keeping things encrypted / compressed and then, only when neeeded decrypts data and sends it to another process that needs it? so that data can stay compressed unless it is needed, and any losses due to decompression can be handled by the other process kinda decompressing and piping day at into wherever it’s needed?
+
+an out-of-process data broker that stores chunks compressed + encrypted, then on request decrypts and decompresses only the needed chunk and streams it over shared memory, a pipe, or a socket to the consumer.
